@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "reco_paper"
+  site-url: "https://ryviuszero.github.io/reco_paper"
+  description: "Implementation of some recommendation algorithm papers"
+  repo-branch: main
+  repo-url: "https://github.com/ryviuszero/reco_paper"
